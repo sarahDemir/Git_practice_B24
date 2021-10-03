@@ -2,9 +2,9 @@ package Setup;
 
 public class Car {
 
-    //this is car class
+    //this is our car from james branch
 
-    //I am in master now
+    //more text
 
-    // I hope we will have conflict this time
+    // more text
 }
