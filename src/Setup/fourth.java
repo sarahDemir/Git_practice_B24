@@ -1,9 +1,7 @@
 package Setup;
 
-public class fourth {
+public class Fourth {
 
-    //this tc002 branch
+    // this is master branch
 
-    //random text
-    // added more
 }
